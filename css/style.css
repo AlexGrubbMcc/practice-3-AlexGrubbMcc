@@ -41,3 +41,8 @@ section{
 .pad{
     padding: 16px;
 }
+
+
+.bg-red {
+    background-color: #d40920;
+}
