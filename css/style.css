@@ -37,3 +37,7 @@ section{
     gap: 16px;
     margin-top: 16px;
 }
+
+.pad{
+    padding: 16px;
+}
