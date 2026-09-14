@@ -50,10 +50,3 @@ section{
 .bg-yellow {
     background-color: yellow;
 }
-
-footer{
-    display:grid;
-    grid-template:auto / 1fr;
-    gap: 16px;
-    margin-top: 16px;
-}
